@@ -86,8 +86,7 @@ The Lua mod writes `%APPDATA%\<game>\speedmod_log.txt`. Vengeance writes
   KRVSpeed only writes the game's speed value, and all of its source is here.
 
 ## Credits and license
-Made by lvivskapasta. Built with Claude Code (Anthropic's AI coding assistant): the reverse
-engineering, code and installers were written with AI help and tested in game.
+Made by lvivskapasta.Code written with AI help and tested in game.
 
 Kingdom Rush is (c) Ironhide Game Studio. This is an unofficial fan mod; it contains no game
 files or game code.
