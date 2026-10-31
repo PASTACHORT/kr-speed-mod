@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Version>1.0.0</Version>
+    <Product>Kingdom Rush Vengeance Speed Slider</Product>
+    <Authors>lvivskapasta</Authors>
+    <Company>lvivskapasta</Company>
+    <Copyright>Copyright (c) 2026 lvivskapasta</Copyright>
+    <AssemblyTitle>KR Vengeance Speed Slider</AssemblyTitle>
+    <Description>x1-x8 battle speed slider overlay for Kingdom Rush Vengeance</Description>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+# Build output
+dist/
+vengeance/publish/
+**/bin/
+**/obj/
+
+# Python
+__pycache__/
+*.pyc
+
+# Never commit game files or extracted game code
+*.kra
+lua51.dll
+love.dll
